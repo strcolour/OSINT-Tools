@@ -13,8 +13,8 @@
   - Tineye
 
 ## Browsers
-  - Google hacking
-  - Bing hacking
+  - [Google hacking](https://github.com/strcolour/OSINT-Tools/tree/master/Browsers)
+  - [Bing hacking](https://github.com/strcolour/OSINT-Tools/tree/master/Browsers)
   
 ## Metadata
   - 
