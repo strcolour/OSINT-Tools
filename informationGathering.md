@@ -12,6 +12,13 @@
     __ej.__ Con las ofertas de empleo podemos averiguar el tipo de sistemas que utilizan.
     - consultas complejas.
      __ej.__ directorios de páginas
+   #### Herramientas para el reconocimiento pasivo
+     - Who is
+     - Google/Bing hacking
+     - Shodan
+     - Social Network Enginnering
+     - Fuentes públicas
+     - Metadatos
    
 ## Primer contacto
   - Nombre del "objetivo"
