@@ -47,5 +47,5 @@ ej: numrange:10-15
 __related__ -> Muestra webs que están relacionadas con una determinada.
 ej: realted:strcolour.es
 
-# Información que podemos obtener
+# [Información que podemos obtener](https://antoniogonzalezm.es/google-hacking-46-ejemplos-hacker-contrasenas-usando-google-enemigo-peor/)
 
