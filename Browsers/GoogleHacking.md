@@ -1,6 +1,3 @@
-# Qué es
-Realización de búsquedas avanzadas para localizar información específica.
-
 # Comandos básicos
 
 __" "__ -> Muestra resultados que contengan la frase exacta.
