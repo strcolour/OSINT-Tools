@@ -48,4 +48,9 @@ __related__ -> Muestra webs que están relacionadas con una determinada.
 ej: realted:strcolour.es
 
 # [Información que podemos obtener](https://antoniogonzalezm.es/google-hacking-46-ejemplos-hacker-contrasenas-usando-google-enemigo-peor/)
-
+- Ficheros con usuarios y contraseñas
+- Páginas con formularios de acceso
+- Ficheros que muestran nombres de usuario
+- Versiones o productos vulnerables
+- Dispositivos hardware online
+- Ficheros con información sensible
